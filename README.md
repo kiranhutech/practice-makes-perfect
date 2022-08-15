@@ -7,3 +7,5 @@ ifsc and gst api
 lets start implementation
 start api
 start ui
+today we will
+start implement app
